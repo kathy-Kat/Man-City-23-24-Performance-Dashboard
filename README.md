@@ -81,6 +81,8 @@ It was designed to simulate a real-world sports analytics dashboard used by foot
 
 # 📷 Dashboard Preview
 <br>
+<img width="1337" height="737" alt="image" src="https://github.com/user-attachments/assets/6ea3fa4a-bd53-4ad0-9224-4f1bf8ca3d2a" />
+<br>
 
 # 🚀 Future Improvements
 - Add player heatmaps
