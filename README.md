@@ -107,5 +107,5 @@ _Through this project I improved my understanding of:_
 👤 Author
 
 **Katli**
-BSc Mathematics & Information Systems Student
-Aspiring Data Analyst | BI Analyst | Business Analyst
+<pre> BSc Mathematics & Information Systems Student
+Aspiring Data Analyst | BI Analyst | Business Analyst <pre/>
