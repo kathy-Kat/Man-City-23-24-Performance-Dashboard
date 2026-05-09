@@ -46,6 +46,7 @@ It was designed to simulate a real-world sports analytics dashboard used by foot
    - Goals Conceded
    
 🔹 Interactive Filters
+<br>
 _Users can filter the dashboard by:_
   - Player
   - Position
