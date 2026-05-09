@@ -104,6 +104,6 @@ _Through this project I improved my understanding of:_
 - Presenting insights through storytelling
 <hr>
 
-# 👤 Author
+# 👤 Author 
 **<pre>Catherine Maponya** BSc Mathematics & Information Systems Student
-Aspiring Data Analyst | BI Analyst | Business Analyst </pre>
+Aspiring Data, BI & Business Analyst </pre>
