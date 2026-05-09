@@ -1,5 +1,5 @@
 # ManCity 23-24 Performance Dashboard ⚽📊
-A professional football analytics dashboard built in Power BI to analyze the 2023/24 Manchester City squad performance, player efficiency, financial metrics, and match outcomes.
+<pre>A professional football analytics dashboard built in Power BI to analyze the 2023/24 Manchester City squad performance, player efficiency, financial metrics, and match outcomes. </pre>
 
 <br>
 
@@ -105,5 +105,5 @@ _Through this project I improved my understanding of:_
 <hr>
 
 **<h3> 👤 Author </h3>**
-**<pre> Katli** BSc Mathematics & Information Systems Student
-Aspiring Data Analyst | BI Analyst | Business Analyst </pre>
+**Katli** BSc Mathematics & Information Systems Student
+<pre> Aspiring Data Analyst | BI Analyst | Business Analyst </pre>
