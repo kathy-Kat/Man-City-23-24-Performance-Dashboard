@@ -102,10 +102,8 @@ _Through this project I improved my understanding of:_
 - Creating interactive visualizations
 - Using DAX for performance calculations
 - Presenting insights through storytelling
-
 <hr>
-👤 Author
 
-**Katli**
-<pre> BSc Mathematics & Information Systems Student
-Aspiring Data Analyst | BI Analyst | Business Analyst <pre/>
+# 👤 Author
+<pre>**Katli** BSc Mathematics & Information Systems Student
+Aspiring Data Analyst | BI Analyst | Business Analyst<pre/>
