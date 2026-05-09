@@ -1,7 +1,7 @@
 # ManCity 23-24 Performance Dashboard ⚽📊
 A professional football analytics dashboard built in Power BI to analyze the 2023/24 Manchester City squad performance, player efficiency, financial metrics, and match outcomes.
 
-<br>
+<hr>
 
 # 📌 Project Overview
 <br>
@@ -15,7 +15,7 @@ It was designed to simulate a real-world sports analytics dashboard used by foot
 - Player efficiency evaluation
 - Match result trends
 - Squad composition insights
-- 
+  
 <br>
 
 # 🎯 Dashboard Objectives
@@ -54,6 +54,7 @@ It was designed to simulate a real-world sports analytics dashboard used by foot
   - Height
   - Nationality
   - Rating (%)
+<br>
 
 🔹 **Visualizations**
    - Cumulative Points by Matchday
@@ -62,6 +63,7 @@ It was designed to simulate a real-world sports analytics dashboard used by foot
    - Home vs Away Performance
    - Player Efficiency Scatter Plot
    - Market Value by Position
+<br>
 
 # 📈 Key Insights
 - Manchester City scored 92 goals while conceding only 34
