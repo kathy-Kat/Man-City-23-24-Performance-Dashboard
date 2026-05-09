@@ -37,17 +37,15 @@ It was designed to simulate a real-world sports analytics dashboard used by foot
 
 <br>
 
-# 📊 Dashboard Features
+# 📊 DASHBOARD FEATURES
 <br>
-🔹 KPI Cards
+🔹** KPI Cards**
    - Squad Market Value (€M)
    - Total Wage Bill (£)
    - Goals Scored
    - Goals Conceded
    
-🔹 Interactive Filters
-<br>
-_Users can filter the dashboard by:_
+🔹 **Interactive Filters** _Users can filter the dashboard by:_
   - Player
   - Position
   - Age
@@ -55,7 +53,7 @@ _Users can filter the dashboard by:_
   - Nationality
   - Rating (%)
 
-🔹 Visualizations
+🔹 **Visualizations**
    - Cumulative Points by Matchday
    - Goals Scored vs Goals Conceded Trend
    - Win / Draw / Loss Analysis
