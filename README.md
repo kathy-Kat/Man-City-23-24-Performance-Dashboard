@@ -104,6 +104,6 @@ _Through this project I improved my understanding of:_
 - Presenting insights through storytelling
 <hr>
 
-# 👤 Author
-<pre>**Katli** BSc Mathematics & Information Systems Student
-Aspiring Data Analyst | BI Analyst | Business Analyst<pre/>
+**<h3> 👤 Author </h3>**
+**<pre> Katli** BSc Mathematics & Information Systems Student
+Aspiring Data Analyst | BI Analyst | Business Analyst </pre>
