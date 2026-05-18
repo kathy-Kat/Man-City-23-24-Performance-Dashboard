@@ -8,7 +8,7 @@ The dashboard provides a complete overview of Manchester City’s 2023/24 season
 It was designed to simulate a real-world sports analytics dashboard used by football clubs, analysts, and recruitment teams.
 <br>
 
-**<h2> The project focuses on: </h2>**
+**<h2> 💡The project focuses on:💡 </h2>**
 - Team performance tracking
 - Financial analysis
 - Player efficiency evaluation
