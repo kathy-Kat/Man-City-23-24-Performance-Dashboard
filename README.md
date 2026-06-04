@@ -82,7 +82,8 @@ It was designed to simulate a real-world sports analytics dashboard used by foot
 
 # 📷 Dashboard Preview
 <br>
-<img width="1337" height="737" alt="image" src="https://github.com/user-attachments/assets/6ea3fa4a-bd53-4ad0-9224-4f1bf8ca3d2a" />
+<img width="1347" height="729" alt="image" src="https://github.com/user-attachments/assets/78c00e00-4a94-4f98-89e3-0d284d65a572" />
+
 <br>
 
 # 🚀 Future Improvements
