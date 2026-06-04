@@ -59,14 +59,14 @@ It was designed to simulate a real-world sports analytics dashboard used by foot
    - Goals Scored vs Goals Conceded Trend
    - Win / Draw / Loss Analysis
    - Home vs Away Performance
-   - Player Efficiency Scatter Plot
+   - Player Efficiency 
    - Market Value by Position
 <br>
 
 # 📈 Key Insights
-- Manchester City scored 92 goals while conceding only 34
-- The team achieved 28 wins during the season
-- Centre-Forwards had the highest market value contribution
+- Manchester City **scored 96 goals** while **conceding only 34**
+- The team achieved **28** wins during the season
+- **Centre-Forwards** had the highest market value contribution
 - Strong attacking output correlated with higher player salaries
 - Home and away performance remained consistently balanced
 <br>
