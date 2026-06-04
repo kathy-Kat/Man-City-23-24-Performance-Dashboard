@@ -30,7 +30,7 @@ It was designed to simulate a real-world sports analytics dashboard used by foot
 - Power BI
 - Power Query
 - DAX Measures
-- Excel / CSV Dataset
+- Excel Dataset
 - Data Cleaning & Transformation
 
 <br>
