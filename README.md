@@ -25,6 +25,12 @@ It was designed to simulate a real-world sports analytics dashboard used by foot
 - Provide interactive filtering for deeper analysis
   
  <br>
+
+ # 📷 Dashboard Preview
+<br>
+<img width="1303" height="730" alt="image" src="https://github.com/user-attachments/assets/b65b6343-7abe-4472-aa37-a8e96402b4a3" />
+
+<br>
  
 # 🛠️ Tools & Technologies Used
 - Power BI
@@ -79,12 +85,6 @@ It was designed to simulate a real-world sports analytics dashboard used by foot
 - Dashboard Design
 - Data Visualization
 - Business Intelligence Reporting
-
-# 📷 Dashboard Preview
-<br>
-<img width="1303" height="730" alt="image" src="https://github.com/user-attachments/assets/b65b6343-7abe-4472-aa37-a8e96402b4a3" />
-
-
 <br>
 
 # 🚀 Future Improvements
